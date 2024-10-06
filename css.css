@@ -244,7 +244,7 @@ nav{
 }
 .image img{
     width: 380px;
-    height: 550px;
+    height: 380px;
     object-fit: cover;
 }
 @keyframes imgFloat {
